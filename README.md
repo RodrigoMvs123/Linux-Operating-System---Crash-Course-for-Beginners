@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=ROjZy1WbCIA
 
 https://raw.githubusercontent.com/RodrigoMvs123/Linux-Operating-System---Crash-Course-for-Beginners/main/README.md
 
-
+https://github.com/RodrigoMvs123/Linux-Operating-System---Crash-Course-for-Beginners/blame/main/README.md
 
 Free and Open source
 Unix-like Operating System Kernel 
